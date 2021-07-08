@@ -7,6 +7,7 @@ Checkout this repository. It has everything I'm using to achieve this. Thanks Ma
 
 ## Main Resources:
 - Creating Telegram Bot: https://youtu.be/NwBWW8cNCP4
+- Sending Message to Whatsapp automatically: ___________
 
 ## Other Resources 
 - https://www.youtube.com/watch?v=lVsFW6Jt8CU - Video Tutorial For Setting Up 
