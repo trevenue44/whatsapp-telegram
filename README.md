@@ -10,10 +10,10 @@ Checkout this repository. It has everything I'm using to achieve this. Thanks Ma
 - [x] Galleimann enables the program to get messages sent to the telegram bot.
 - [ ] To be able to send automated messages to a WhatsApp chat.
     - Could use a WhatsApp business account.
-    - Know how to automated messages to a WhatsApp.
+    - Know how to send automated messages to a WhatsApp.
 - [ ] Finally, link Galleimann to the WhatsApp business account
 	- The app should be able to transfer the telegram messages from Galleimann through the WhatsApp business account to a specified WhatsApp chat.
-- [ ] <span style="color: green;">Project Completed! </span>
+- [ ] <span style="color: blue;">Project Completed!</span>
 
 ## Main Resources:
 - Creating Telegram Bot: https://youtu.be/NwBWW8cNCP4
